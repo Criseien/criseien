@@ -1,9 +1,10 @@
+
 <h2 align="center">
 Hola, soy Cristian Aranda 👋
 </h2>
 
 <p>
-Soy un Site Reliability Engineer (SRE) con una trayectoria de 7 años en el mundo de la tecnología. Mi aventura comenzó en el área de <strong>observabilidad</strong>, donde me especialicé en <strong>monitoreo</strong> utilizando principalmente Splunk.  Aquí creaba alertas, dashboards y modelos, y fue precisamente en este punto donde despertó mi interés por la <strong>ciencia de datos</strong>.
+Soy un Site Reliability Engineer (SRE). Mi aventura comenzó en el área de <strong>observabilidad</strong>, donde me especialicé en <strong>monitoreo</strong> utilizando principalmente Splunk.  Aquí creaba alertas, dashboards y modelos, y fue precisamente en este punto donde despertó mi interés por la <strong>ciencia de datos</strong>.
 </p>
 
 <p>
