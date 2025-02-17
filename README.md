@@ -1,32 +1,48 @@
-
 <h2 align="center">
 Hola, soy Cristian Aranda 👋
 </h2>
 
-<p>
-Soy un Site Reliability Engineer (SRE). Mi aventura comenzó en el área de <strong>observabilidad</strong>, donde me especialicé en <strong>monitoreo</strong> utilizando principalmente Splunk.  Aquí creaba alertas, dashboards y modelos, y fue precisamente en este punto donde despertó mi interés por la <strong>ciencia de datos</strong>.
-</p>
+<h3 align="center">
+SRE | Apasionado por Data Science & Machine Learning. Transicionando mi carrera hacia la ciencia de datos y compartiendo mi viaje. Python | SQL | Automatización.
+</h3>
 
-<p>
-Motivado por esta nueva pasión, cursé una <strong>Maestría en Ciencia de Datos para Negocios</strong>. Sin embargo, justo al finalizar mis estudios, mi carrera tomó un giro inesperado al cambiarme de área. Mi nuevo enfoque se centró en la <strong>automatización</strong>, utilizando herramientas como Ansible y scripts en Bash.
-</p>
+---
 
+## Sobre Mí 👋
 
-<p>
-A pesar del cambio, pude aplicar los conocimientos adquiridos en mi maestría para abordar un desafío crucial: la <strong>reducción de incidentes en producción mediante el análisis de datos</strong>.  Identificar el mayor beneficio a través de los datos me dio una gran satisfacción.  Tiempo después, asumí el rol de <strong>líder de equipos</strong>, y participé en un emocionante proyecto para implementar <strong>IA Generativa</strong>.
-</p>
+Soy un Site Reliability Engineer en transición hacia el apasionante mundo de Data Science y Machine Learning. Mi experiencia en observabilidad y automatización me ha proporcionado una base sólida, y mi pasión por los datos me impulsa a aprender y crecer en este nuevo campo.
 
-<p>
-Este último proyecto fue un punto de inflexión.  Me reencontré con mi pasión por la ciencia de datos y descubrí el fascinante mundo del <strong>Machine Learning</strong>.  Esta experiencia me impulsó a tomar una decisión importante: cursar una segunda <strong>Maestría en Inteligencia Artificial</strong>.
-</p>
+Actualmente estoy enfocado en fortalecer mis habilidades en Python, SQL y las matemáticas fundamentales para Machine Learning.  Comparto mi progreso y aprendizaje en [datoslibres.blog](https://datoslibres.blog).
 
-<p>
-Mi objetivo ahora es claro:  transicionar mi rol actual de SRE a <strong>científico de datos y Machine Learning</strong>.  Soy consciente de que es un camino largo, y para ello estoy enfocado en mejorar mis habilidades técnicas en <strong>Python, SQL</strong>, y en <strong>re-estudiar y profundizar las matemáticas necesarias</strong>.  A pesar del desafío, estoy seguro de que quiero dedicarme a esto el resto de mi vida.
-</p>
+¡Acompáñame en este viaje!
 
 
-<p>
-Estoy muy entusiasmado con este nuevo capítulo en mi carrera.  Si te apasiona la ciencia de datos, el Machine Learning o la automatización tanto como a mí, ¡te invito a unirte a esta aventura!  Sígueme en <a href="https://datoslibres.blog" target="_blank">datoslibres.blog</a> donde comparto mis aprendizajes y progresos.  Este repositorio es un reflejo de mi camino.  ¿Tienes preguntas, sugerencias o ideas para colaborar? ¡Escríbeme! La colaboración es clave en este viaje.
-</p>
+## Habilidades Técnicas 🛠️
 
-<hr>
+**Lenguajes de Programación:**
+*   Python
+*   SQL
+*   Bash
+
+**Herramientas y Tecnologías:**
+*   Splunk (Observabilidad y Monitoreo)
+*   Ansible (Automatización)
+*   Docker (Contenedores)
+
+**Data Science & Machine Learning (En Aprendizaje):**
+*   Machine Learning
+*   Data Analysis
+*   Numpy 
+*   Pandas
+*   Matplotlib
+*   Seaborn
+*   Scikit-learn
+
+## Conecta Conmigo 🌐
+
+[![Blog](https://img.shields.io/badge/Blog-datoslibres.blog-orange?style=for-the-badge)](https://datoslibres.blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+¡No dudes en contactarme si tienes preguntas, sugerencias o ideas para colaborar!
+
