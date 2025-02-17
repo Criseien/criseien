@@ -3,7 +3,7 @@ Hola, soy Cristian Aranda 👋
 </h2>
 
 <h3 align="center">
-SRE | Apasionado por Data Science & Machine Learning. Transicionando mi carrera hacia la ciencia de datos y compartiendo mi viaje. Python | SQL | Automatización.
+SRE | Apasionado por Data Science & Machine Learning. Transicionando mi carrera hacia la ciencia de datos y compartiendo mi viaje. 
 </h3>
 
 ---
