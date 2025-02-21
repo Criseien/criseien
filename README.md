@@ -12,10 +12,7 @@ SRE | Apasionado por Data Science & Machine Learning. Transicionando mi carrera 
 
 Soy un Site Reliability Engineer en transición hacia el apasionante mundo de Data Science y Machine Learning. Mi experiencia en observabilidad y automatización me ha proporcionado una base sólida, y mi pasión por los datos me impulsa a aprender y crecer en este nuevo campo.
 
-Actualmente estoy enfocado en fortalecer mis habilidades en Python, SQL y las matemáticas fundamentales para Machine Learning.  Comparto mi progreso y aprendizaje en [datoslibres.blog](https://datoslibres.blog).
-
 ¡Acompáñame en este viaje!
-
 
 ## Habilidades Técnicas 🛠️
 
@@ -40,7 +37,7 @@ Actualmente estoy enfocado en fortalecer mis habilidades en Python, SQL y las ma
 
 ## Conecta Conmigo 🌐
 
-[![Blog](https://img.shields.io/badge/Blog-datoslibres.blog-orange?style=for-the-badge)](https://datoslibres.blog)
+[![Web](https://img.shields.io/badge/Blog-datoslibres.blog-orange?style=for-the-badge)](https://datoslibres.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
