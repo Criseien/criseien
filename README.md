@@ -21,19 +21,8 @@ Soy un Site Reliability Engineer en transición hacia el apasionante mundo de Da
 *   SQL
 *   Bash
 
-**Herramientas y Tecnologías:**
-*   Splunk (Observabilidad y Monitoreo)
-*   Ansible (Automatización)
-*   Docker (Contenedores)
 
-**Data Science & Machine Learning (En Aprendizaje):**
-*   Machine Learning
-*   Data Analysis
-*   Numpy 
-*   Pandas
-*   Matplotlib
-*   Seaborn
-*   Scikit-learn
+
 
 ## Conecta Conmigo 🌐
 
