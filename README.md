@@ -26,7 +26,7 @@ Soy un Site Reliability Engineer en transición hacia el apasionante mundo de Da
 
 ## Conecta Conmigo 🌐
 
-[![Web](https://img.shields.io/badge/Blog-datoslibres.me-orange?style=for-the-badge)](https://datoslibres.me)
+[![Web](https://img.shields.io/badge/Blog-icris.me-gray?style=for-the-badge)](https://icris.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
