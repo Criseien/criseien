@@ -1,34 +1,44 @@
-<h2 align="center">
+<h1 align="center">
 Hola, soy Cristian Aranda 👋
-</h2>
+</h1>
 
 <h3 align="center">
-SRE | Apasionado por Data Science & Machine Learning. Transicionando mi carrera hacia la ciencia de datos y compartiendo mi viaje. 
+De SRE a Data Science: Construyendo mi camino a través de proyectos.
 </h3>
 
 ---
 
-## Sobre Mí 👋
+## Sobre Mí 🚀
 
-Soy un Site Reliability Engineer en transición hacia el apasionante mundo de Data Science y Machine Learning. Mi experiencia en observabilidad y automatización me ha proporcionado una base sólida, y mi pasión por los datos me impulsa a aprender y crecer en este nuevo campo.
+Soy un Site Reliability Engineer (SRE) con una sólida experiencia en **observabilidad, automatización y gestión de sistemas robustos**. Actualmente, estoy apasionadamente inmerso en la transición de mi carrera hacia el campo de **Data Science y Machine Learning**.
 
-¡Acompáñame en este viaje!
+Mi enfoque de aprendizaje es **práctico y basado en proyectos**, progresando desde los fundamentos hasta la aplicación de técnicas avanzadas. Utilizo cada proyecto como una oportunidad para consolidar conocimientos y demostrar mi crecimiento continuo.
+
+Aquí encontrarás mi portafolio en evolución, mostrando mi viaje a través de análisis de datos, modelado predictivo y más.
 
 ## Habilidades Técnicas 🛠️
 
-**Lenguajes de Programación:**
-*   Python
-*   SQL
-*   Bash
+* **Lenguajes:** Python, SQL, Bash
+* **Librerías Clave (Aprendiendo y Aplicando):**
+    * Data Analysis/Manipulation: Pandas, NumPy
+    * Visualization: Matplotlib, Seaborn
+    * Machine Learning: Scikit-learn
+    * (Puedes añadir más a medida que avances)
+* **Conceptos Fundamentales:** Análisis Exploratorio de Datos (EDA), Preprocesamiento de Datos, Modelado Predictivo, Evaluación de Modelos, Fundamentos de Bases de Datos.
+
+---
+
+## Mis Proyectos 📁
+
+Explora algunos de mis proyectos recientes y anclados para ver las técnicas y habilidades que estoy desarrollando. Cada repositorio incluye un README detallado sobre el problema, la metodología y los resultados.
 
 
-
+---
 
 ## Conecta Conmigo 🌐
 
 [![Web](https://img.shields.io/badge/Blog-icris.me-gray?style=for-the-badge)](https://icris.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([Tu enlace de LinkedIn])
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)]([Tu enlace de Twitter])
 
-¡No dudes en contactarme si tienes preguntas, sugerencias o ideas para colaborar!
-
+¡Siempre estoy abierto a aprender, colaborar y discutir sobre datos! No dudes en contactarme.
