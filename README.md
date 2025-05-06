@@ -37,7 +37,7 @@ Explora algunos de mis proyectos recientes y anclados para ver las técnicas y h
 ## Conecta Conmigo 🌐
 
 [![Web](https://img.shields.io/badge/Blog-icris.me-gray?style=for-the-badge)](https://icris.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([Tu enlace de LinkedIn])
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)]([Tu enlace de Twitter])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 ¡Siempre estoy abierto a aprender, colaborar y discutir sobre datos! No dudes en contactarme.
