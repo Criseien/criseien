@@ -23,7 +23,6 @@ Aquí encontrarás mi portafolio en evolución, mostrando mi viaje a través de 
     * Data Analysis/Manipulation: Pandas, NumPy
     * Visualization: Matplotlib, Seaborn
     * Machine Learning: Scikit-learn
-    * (Puedes añadir más a medida que avances)
 * **Conceptos Fundamentales:** Análisis Exploratorio de Datos (EDA), Preprocesamiento de Datos, Modelado Predictivo, Evaluación de Modelos, Fundamentos de Bases de Datos.
 
 ---
