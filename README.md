@@ -38,9 +38,6 @@ Aquí encontrarás mi portafolio en evolución, mostrando mi viaje a través de 
 * **Conceptos Fundamentales:** Análisis Exploratorio de Datos (EDA), Preprocesamiento de Datos, Modelado Predictivo, Evaluación de Modelos, Fundamentos de Bases de Datos.
 
 
-## Mis Proyectos 📁
-
-Explora algunos de mis proyectos recientes y anclados para ver las técnicas y habilidades que estoy desarrollando en la intersección de SRE, Data Science y Machine Learning, con un enfoque en la automatización y despliegue. Cada repositorio incluye un README detallado sobre el problema, la metodología y, si aplica, los aspectos de automatización, despliegue o monitoreo explorados.
 ---
 
 ## Mis Proyectos 📁
