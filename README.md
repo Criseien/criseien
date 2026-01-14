@@ -2,8 +2,8 @@
 ### SRE AVP | Linux & Automation Specialist | Stoic Thinker
 
 [![Blog](https://img.shields.io/badge/Personal_Blog-icris.me-2ea44f?style=for-the-badge&logo=rss)](https://icris.me)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-usuario-aqui)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:tu-email@ejemplo.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/tu-usuario-aqui](https://www.linkedin.com/in/cristiangomezaranda/?locale=en_US))
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:agcristianaranda@gmail.com)
 
 ---
 
