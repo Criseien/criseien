@@ -12,9 +12,10 @@ Background in banking SRE with production Ansible automation at scale. Building 
 
 | Repo | What it covers |
 | :--- | :--- |
-| [linux-networking-labs](https://github.com/Criseien/linux-networking-labs) | Network namespaces, iptables, NAT, firewalld, DNS, NFS — the substrate K8s networking runs on |
+| [linux-networking-lab](https://github.com/Criseien/linux-networking-lab) | Network namespaces, iptables, NAT, firewalld, DNS, NFS — the substrate K8s networking runs on |
 | [linux-core-labs](https://github.com/Criseien/linux-core-labs) | SELinux, LVM, systemd, SSH hardening, bash scripting — Linux system fundamentals from real failure scenarios |
 | [docker-internals-labs](https://github.com/Criseien/docker-internals-labs) | cgroups v2, runc, overlay2, containerd — the container runtime stack from the OCI spec down |
+| [platform-engineering-labs](https://github.com/Criseien/platform-engineering-labs) | Docker Compose, Kubernetes, CI/CD — orchestration and platform tooling from real failure scenarios |
 
 ---
 
@@ -33,7 +34,7 @@ Background in banking SRE with production Ansible automation at scale. Building 
 
 ## Now
 
-- Completing Linux Core fundamentals with lab evidence
+- Building platform-engineering-labs: Docker Compose, K8s, CI/CD from the internals up
 - Writing the *From Scratch* series on K8s networking internals → [icris.me](https://icris.me)
 - Target: CKA + K8s networking specialist role
 
