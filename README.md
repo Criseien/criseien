@@ -1,44 +1,13 @@
-# Cristian Gomez
+# Cristian Aranda
 
-**Platform Engineer** — Kubernetes Networking & Troubleshooting.
+Rebuilding Kubernetes networking from first principles — and writing down what actually happens.
 
-I work from the kernel up: network namespaces, veth pairs, iptables chains, cgroups, CNI internals. Not just `kubectl apply` — the primitives that explain why it breaks.
+9 years running production infrastructure in LATAM banking. Now on a full-time deep dive (2026–27): Linux networking → Kubernetes → Cilium/eBPF.
 
-Background in banking SRE with production Ansible automation at scale. Building in public toward a K8s networking specialist role (remote, US/EU).
+**Writing:** the *From Scratch* series — packet-level traces, no hand-waving. Currently: how kube-proxy load-balances, from iptables DNAT down → [icris.me](https://icris.me)
 
----
-
-## Labs
-
-| Repo | What it covers |
-| :--- | :--- |
-| [linux-networking-lab](https://github.com/Criseien/linux-networking-lab) | Network namespaces, iptables, NAT, firewalld, DNS, NFS — the substrate K8s networking runs on |
-| [linux-core-labs](https://github.com/Criseien/linux-core-labs) | SELinux, LVM, systemd, SSH hardening, bash scripting — Linux system fundamentals from real failure scenarios |
-| [docker-internals-labs](https://github.com/Criseien/docker-internals-labs) | cgroups v2, runc, overlay2, containerd — the container runtime stack from the OCI spec down |
-| [platform-engineering-labs](https://github.com/Criseien/platform-engineering-labs) | Docker Compose, Kubernetes, CI/CD — orchestration and platform tooling from real failure scenarios |
-
----
-
-## Stack
-
-| Layer | Tools |
-| :--- | :--- |
-| **Networking** | iptables, tcpdump, nsenter, firewalld, network namespaces |
-| **Linux** | AlmaLinux 9, systemd, SELinux, LVM, SSH hardening |
-| **Container runtime** | Docker, containerd, runc, cgroups v2, overlay2 |
-| **Automation** | Ansible (production, banking), Bash |
-| **Observability** | Splunk, journald, Prometheus (learning) |
-| **K8s (in progress)** | Kubernetes networking model, CNI, Cilium, eBPF |
-
----
-
-## Now
-
-- Building platform-engineering-labs: Docker Compose, K8s, CI/CD from the internals up
-- Writing the *From Scratch* series on K8s networking internals → [icris.me](https://icris.me)
-- Target: CKA + K8s networking specialist role
 
 ---
 
 [![Blog](https://img.shields.io/badge/Blog-icris.me-2ea44f?style=flat-square&logo=rss)](https://icris.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Gomez-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cristiangomezaranda/?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Aranda-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cristiangomezaranda/?locale=en_US)
