@@ -2,7 +2,7 @@
 
 Rebuilding Kubernetes networking from first principles — and writing down what actually happens.
 
-9 years running production infrastructure in LATAM banking. Now on a full-time deep dive (2026–27): Linux networking → Kubernetes → Cilium/eBPF.
+8 years running production infrastructure in LATAM banking. Now on a full-time deep dive (2026–27): Linux networking → Kubernetes → Cilium/eBPF.
 
 **Writing:** the *From Scratch* series — packet-level traces, no hand-waving. Currently: how kube-proxy load-balances, from iptables DNAT down → [icris.me](https://icris.me)
 
