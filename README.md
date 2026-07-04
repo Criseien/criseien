@@ -1,11 +1,10 @@
 # Cristian Aranda
 
-Rebuilding Kubernetes networking from first principles — and writing down what actually happens.
-8 years running production infrastructure in LATAM banking, now on a full-time deep dive (2026–27):
-Linux networking → Kubernetes → Cilium/eBPF.
+Kubernetes networking, traced from the kernel up. 8 years keeping production alive at a top-tier
+LATAM bank; now a full-time deep dive (2026–27): Linux networking → Kubernetes → Cilium/eBPF.
 
-problems, transformed phase by phase. CI, Ansible, ADRs documenting every deliberate anti-pattern
-before fixing it — production judgment, not just commands.
+problems, transformed phase by phase. CI, Ansible, 8 ADRs documenting every deliberate anti-pattern
+before the fix. Production judgment, not just commands.
 
 **Writing — the *From Scratch* series, in order:**
 1. [Building a container network from scratch: namespaces, veth, bridges](https://www.icris.me/posts/building-container-network-from-scratch/)
