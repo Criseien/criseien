@@ -1,11 +1,24 @@
 # Cristian Aranda
 
 Rebuilding Kubernetes networking from first principles — and writing down what actually happens.
+8 years running production infrastructure in LATAM banking, now on a full-time deep dive (2026–27):
+Linux networking → Kubernetes → Cilium/eBPF.
 
-8 years running production infrastructure in LATAM banking. Now on a full-time deep dive (2026–27): Linux networking → Kubernetes → Cilium/eBPF.
+problems, transformed phase by phase. CI, Ansible, ADRs documenting every deliberate anti-pattern
+before fixing it — production judgment, not just commands.
 
-**Writing:** the *From Scratch* series — packet-level traces, no hand-waving. Currently: how kube-proxy load-balances, from iptables DNAT down → [icris.me](https://icris.me)
+**Writing — the *From Scratch* series, in order:**
+1. [Building a container network from scratch: namespaces, veth, bridges](https://www.icris.me/posts/building-container-network-from-scratch/)
+2. [How pods reach the internet: NAT and masquerading](https://www.icris.me/posts/how-pods-reach-internet-nat-masquerading/)
+3. [Exposing a service without Kubernetes: DNAT load balancing with iptables](https://www.icris.me/posts/exposing-service-dnat-load-balancing-iptables/)
+4. [From Splunk to Kubernetes: what 8 years of alert fatigue taught me about self-healing systems](https://www.icris.me/posts/from-splunk-to-kubernetes-rollout-self-healing/)
 
+Next: kube-proxy's real DNAT path → why iptables stops scaling (conntrack, O(n)) → a first trace
+through the Cilium/eBPF datapath.
+
+Earlier hands-on labs (Linux internals, Docker, networking) are archived at
+[platform-fundamentals](https://github.com/Criseien/platform-fundamentals) — reference material,
+not active work.
 
 ---
 
