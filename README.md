@@ -1,26 +1,22 @@
-# Cristian Aranda
+# Cristian Gómez Aranda
 
-Kubernetes networking, traced from the kernel up. 8 years keeping production alive at a top-tier
-LATAM bank; now a full-time deep dive (2026–27): Linux networking → Kubernetes → Cilium/eBPF.
+**Platform Engineer — Kubernetes networking, Linux infrastructure, and reliable systems.**
 
-**Building: [Limen](https://github.com/Criseien/Limen)** — a fictional bank with real legacy
-problems, transformed phase by phase. CI, Ansible, 8 ADRs documenting every deliberate anti-pattern
-before the fix. Production judgment, not just commands.
+I spent eight years operating critical banking systems at Citibanamex. I build the automation, observability, and platform foundations that let teams move quickly without making operations fragile.
 
-**Writing — the *From Scratch* series, in order:**
-1. [Building a container network from scratch: namespaces, veth, bridges](https://www.icris.me/posts/building-container-network-from-scratch/)
-2. [How pods reach the internet: NAT and masquerading](https://www.icris.me/posts/how-pods-reach-internet-nat-masquerading/)
-3. [Exposing a service without Kubernetes: DNAT load balancing with iptables](https://www.icris.me/posts/exposing-service-dnat-load-balancing-iptables/)
-4. [From Splunk to Kubernetes: what 8 years of alert fatigue taught me about self-healing systems](https://www.icris.me/posts/from-splunk-to-kubernetes-rollout-self-healing/)
+## Production impact
 
-Next: kube-proxy's real DNAT path → why iptables stops scaling (conntrack, O(n)) → a first trace
-through the Cilium/eBPF datapath.
+- Built automation frameworks that removed an estimated **22,500 annual hours** of manual work.
+- Helped reduce a critical recovery workflow from roughly **4 hours to 15 minutes** through infrastructure-as-code and observability.
 
-Earlier hands-on labs (Linux internals, Docker, networking) are archived at
-[platform-fundamentals](https://github.com/Criseien/platform-fundamentals) — reference material,
-not active work.
+## Building in public
 
----
+I’m on a deliberate **2026–27 technical sabbatical**, turning production judgment into inspectable public work and building toward secure, observable infrastructure for AI workloads.
 
-[![Blog](https://img.shields.io/badge/Blog-icris.me-2ea44f?style=flat-square&logo=rss)](https://icris.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Aranda-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cristiangomezaranda/?locale=en_US)
+- **[Banco Limen](https://github.com/Criseien/Limen)** — a controlled reconstruction of legacy infrastructure failure patterns, with CI, Ansible, Prometheus, and **9 ADRs**.
+- **[From Scratch](https://www.icris.me/#writing)** — Kubernetes networking traced from Linux primitives: namespaces, veth pairs, iptables, NAT, conntrack, and the packet path.
+- **[Platform fundamentals](https://github.com/Criseien/platform-fundamentals)** — archived hands-on reference work from kernel primitives to orchestration.
+
+Open to remote Platform Engineer and SRE roles with teams running Kubernetes in production.
+
+[Website](https://www.icris.me) · [LinkedIn](https://www.linkedin.com/in/cristiangomezaranda/) · [Email](mailto:agcristianaranda@icloud.com)
