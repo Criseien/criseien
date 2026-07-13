@@ -13,7 +13,7 @@ I spent eight years operating critical banking systems at Citibanamex. I build t
 
 I’m on a deliberate **2026–27 technical sabbatical**, turning production judgment into inspectable public work and building toward secure, observable infrastructure for AI workloads.
 
-- **[Banco Limen](https://github.com/Criseien/Limen)** — a controlled reconstruction of legacy infrastructure failure patterns, with CI, Ansible, Prometheus, and **9 ADRs**.
+- **[Limen](https://limen.icris.me/)** — a fictional on-premise bank shaped by 33 operational patterns. Phase 1 makes the baseline visible before the platform transformation begins. [Repository](https://github.com/Criseien/Limen).
 - **[From Scratch](https://www.icris.me/#writing)** — Kubernetes networking traced from Linux primitives: namespaces, veth pairs, iptables, NAT, conntrack, and the packet path.
 - **[Platform fundamentals](https://github.com/Criseien/platform-fundamentals)** — archived hands-on reference work from kernel primitives to orchestration.
 
