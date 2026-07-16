@@ -11,7 +11,7 @@ I spent eight years operating critical banking systems at Citibanamex. I build t
 
 ## Building in public
 
-I’m on a deliberate **2026–27 technical sabbatical**, turning production judgment into inspectable public work and building toward secure, observable infrastructure for AI workloads.
+I’m on a **full-time deep dive** into Linux networking, Kubernetes, and the platform layer underneath — turning production judgment into inspectable public work and building toward secure, observable infrastructure for AI workloads.
 
 - **[From Scratch](https://www.icris.me/#writing)** — Kubernetes networking traced from Linux primitives: namespaces, veth pairs, iptables, NAT, conntrack, and the packet path.
 
