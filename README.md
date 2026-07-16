@@ -14,7 +14,6 @@ I spent eight years operating critical banking systems at Citibanamex. I build t
 I’m on a deliberate **2026–27 technical sabbatical**, turning production judgment into inspectable public work and building toward secure, observable infrastructure for AI workloads.
 
 - **[From Scratch](https://www.icris.me/#writing)** — Kubernetes networking traced from Linux primitives: namespaces, veth pairs, iptables, NAT, conntrack, and the packet path.
-- **[Platform fundamentals](https://github.com/Criseien/platform-fundamentals)** — archived hands-on reference work from kernel primitives to orchestration.
 
 Open to remote Platform Engineer and SRE roles with teams running Kubernetes in production.
 
