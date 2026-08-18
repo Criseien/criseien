@@ -1,13 +1,20 @@
 # Cristian Gómez Aranda
 
-Platform engineer. Eight years operating critical banking systems at Citibanamex: automation frameworks that removed an estimated 22,500 annual hours of manual work, and a recovery workflow cut from roughly 4 hours to 15 minutes.
+Platform engineer. Mexico City, UTC-6, full overlap with US hours.
+
+Eight years operating critical banking systems at Citibanamex: automation frameworks that removed an estimated 22,500 annual hours of manual work, and a recovery workflow cut from roughly 4 hours to 15 minutes.
 
 Now a full-time deep dive into Linux networking and Kubernetes. I take systems apart down to the packet and write down what I find. Everything runs on a laptop: no cloud account required, no steps skipped.
 
-**[Writing](https://www.icris.me/search)** — Kubernetes networking rebuilt from Linux primitives: namespaces and veth pairs, NAT masquerading, a service exposed with DNAT and iptables load balancing. Plus field notes from production, like moving a recovery path off Splunk alerting onto a Kubernetes rollout that heals itself.
+Linux · Kubernetes · Cilium · eBPF · Ansible · Go · Proxmox · Splunk
+
+**[icris.me](https://www.icris.me)** — where I write.
+
+- [The 504 That Took 35 Seconds](https://www.icris.me/2026/08/reading-network-failures-by-the-clock.html) — reading network failures by the clock.
+- [From Splunk to Kubernetes](https://www.icris.me/2026/06/from-splunk-to-kubernetes-rollout-self-healing.html) — what eight years of alert fatigue taught me about self-healing systems.
 
 **[git-troubleshooting-labs](https://github.com/Criseien/git-troubleshooting-labs)** — a broken repository you have to fix. One script sets up the accident, another checks whether you recovered from it.
 
 Open to remote Platform Engineer and SRE roles. If you're stuck somewhere in the packet path, or you think I got something wrong, write to me.
 
-[icris.me](https://www.icris.me) · [LinkedIn](https://www.linkedin.com/in/cristiangomezaranda/) · [Email](mailto:agcristianaranda@icloud.com)
+[LinkedIn](https://www.linkedin.com/in/cristiangomezaranda/) · [Email](mailto:agcristianaranda@icloud.com)
