@@ -1,18 +1,18 @@
 # Cristian Gómez Aranda
 
-**Platform & Infrastructure Engineering**  
-Linux internals · Networking · Go · Kubernetes
-
-I'm based in Mexico. My technical focus is platform and infrastructure engineering, particularly Linux internals, networking, Go and Kubernetes.
-
-I'm interested in both sides of infrastructure work: understanding how systems behave and building the software and tools to work with them. My background is in banking operations.
+Site reliability and infrastructure engineer: 8 years in SRE on Linux, the last three leading automation for critical banking systems at Citibanamex. Focused on Linux networking, the Kubernetes datapath (Cilium, eBPF) and Go.
 
 ## Projects
 
-[Recover an orphan commit](https://github.com/Criseien/git-troubleshooting-labs) is a Git troubleshooting lab with a reproducible recovery scenario, a setup script and a verifier to check the result.
+Work in progress, tracked at [icris.me/p/projects.html](https://www.icris.me/p/projects.html):
 
-## Writing
+- **Linux networking:** routing reconciler, network change validator, egress gateway
+- **Kubernetes and eBPF:** cluster diagnostics agent in Go, operable eBPF network agent, a contribution to Cilium or CNI
+- **Reliability tooling:** DNS and TLS monitor, internal proxy with safe changes, reproducible incident factory
 
-[icris.me](https://www.icris.me/#notes) is where I publish technical articles.
+## Background
 
-[About](https://www.icris.me/p/about.html) · [LinkedIn](https://www.linkedin.com/in/cristiangomezaranda/) · [Email](mailto:agcristianaranda@icloud.com)
+- **Citibanamex** · Assistant Vice President, SRE Automation (2023–2026): led 8 engineers, ~23 during an acceleration project; automation ran ~30,000 times a year in production.
+- **Tata Consultancy Services** · SRE, Monitoring & Automation (2018–2023): Splunk, AppDynamics, Ansible and Bash on Linux.
+
+[CV](https://www.icris.me/p/about.html) · [LinkedIn](https://www.linkedin.com/in/cristiangomezaranda/) · [Contact](https://www.icris.me/p/connect.html)
