@@ -1,6 +1,6 @@
 # Cristian Gómez Aranda
 
-Site reliability and infrastructure engineer: 8 years in SRE on Linux, the last three leading automation for critical banking systems at Citibanamex. Focused on Linux networking, the Kubernetes datapath (Cilium, eBPF) and Go.
+Infrastructure and systems engineer focused on Linux, networking and Go. Before this, eight years in SRE, the last three leading automation for critical banking systems at Citibanamex.
 
 ## Projects
 
